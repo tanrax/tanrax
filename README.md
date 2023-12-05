@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am currently focused on the development of Django LiveView, my new personal website and my cat 🐈.
+
 <!--
 **tanrax/tanrax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- https://github.com/devicons/devicon/tree/master/icons -->
+
+### Some tools that I use regularly
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" alt="clojure" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" alt="debian" width="45" height="45"/>
+  <img src="img/emacs.png" alt="debian" width="45" height="45"/>
+</p>
