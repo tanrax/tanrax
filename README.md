@@ -2,6 +2,8 @@
 
 I am currently focused on the development of Django LiveView, my new personal website and my cat 🐈.
 
+[Mastodon](https://hostux.social/@andros)
+
 ### Some tools that I use regularly
 
 <p>
