@@ -16,8 +16,11 @@ I am currently focused on the development of Django LiveView, my new personal we
 ### Follow me
 
 <a href="https://hostux.social/@andros" alt="Mastodon" target="_blank">
-    <img src="https://joinmastodon.org/logos/logo-purple.svg" alt="python" width="45" height="45"/>
+    <p><img src="https://joinmastodon.org/logos/logo-purple.svg" alt="python" width="45" height="45"/></p>
+    <p>@andros@hostux.social</p>
 </a>
+
+
 
 <!--
 **tanrax/tanrax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
