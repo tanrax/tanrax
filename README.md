@@ -2,8 +2,6 @@
 
 I am currently focused on the development of Django LiveView, my new personal website and my cat 🐈.
 
-[Mastodon](https://hostux.social/@andros)
-
 ### Some tools that I use regularly
 
 <p>
@@ -14,6 +12,12 @@ I am currently focused on the development of Django LiveView, my new personal we
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" alt="debian" width="45" height="45"/>
   <img src="img/emacs.png" alt="debian" width="45" height="45"/>
 </p>
+
+### follow me
+
+<a href="https://hostux.social/@andros" alt="Mastodon">
+    <img src="https://joinmastodon.org/logos/logo-purple.svg" alt="python" width="45" height="45"/>
+</a>
 
 <!--
 **tanrax/tanrax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
