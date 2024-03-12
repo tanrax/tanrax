@@ -13,9 +13,9 @@ I am currently focused on the development of Django LiveView, my new personal we
   <img src="img/emacs.png" alt="debian" width="45" height="45"/>
 </p>
 
-### follow me
+### Follow me
 
-<a href="https://hostux.social/@andros" alt="Mastodon">
+<a href="https://hostux.social/@andros" alt="Mastodon" target="_blank">
     <img src="https://joinmastodon.org/logos/logo-purple.svg" alt="python" width="45" height="45"/>
 </a>
 
