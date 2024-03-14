@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently focused on the development of [Django LiveView](https://django-liveview.andros.dev/), my [new personal website](andros.dev) and my cat 🐈.
+I am currently focused on the development of [Django LiveView](https://django-liveview.andros.dev/), my [new personal website](https://andros.dev) and my cat 🐈.
 
 ### Some tools that I use regularly
 
