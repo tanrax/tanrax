@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am currently focused on the development of [Django LiveView](https://django-liveview.andros.dev/), my [new personal website](https://andros.dev) and my cat 🐈.
+I am currently focused on the development of [Django LiveView](https://django-liveview.andros.dev/), my [new personal website](https://andros.dev) and my cats 🐈 🐈‍⬛.
+
+You can find all [my repositories](https://git.andros.dev/andros) self-hosted on my home server with Gitea. I only have collaborative projects on GitHub.
 
 ### Some tools that I use regularly
 
