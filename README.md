@@ -31,8 +31,8 @@ You can find all [my repositories](https://git.andros.dev/andros) self-hosted on
 
 ### Follow me
 
-<a href="https://activity.andros.dev/@andros" alt="Mastodon" target="_blank">
-    <img src="https://joinmastodon.org/logos/logo-purple.svg" alt="python" width="45" height="45"/>
+<a href="https://activity.andros.dev/@andros" alt="Fediverse" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Fediverse_logo_proposal.svg" alt="Fediverse" width="45" height="45"/>
 </a>
 
 <!--
