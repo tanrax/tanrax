@@ -11,7 +11,7 @@ You can find all [my repositories](https://git.andros.dev/andros) self-hosted on
 - *Maza ad blocking*: Simple, native and efficient local ad blocker. Only Bash. [Repository](https://github.com/tanrax/maza-ad-blocking)
 - *Free courses on web technologies* (Spanish): [Website](https://programadorwebvalencia.com/cursos/)
 - *Lirve*: Learn irregular verbs using the spaced repetition technique [Repository](https://github.com/tanrax/lirve.el)
-- *Infinite recursion* (Spanish): Functional programming challenges [Gemini Capsule](gemini://andros.dev/infinita-recursion)
+- *Infinite recursion* (Spanish): Functional programming challenges gemini://andros.dev/infinita-recursion
 
 ### Some tools that I use regularly
 
