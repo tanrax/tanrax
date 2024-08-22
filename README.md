@@ -4,6 +4,15 @@ I am currently focused on the development of [Django LiveView](https://django-li
 
 You can find all [my repositories](https://git.andros.dev/andros) self-hosted on my home server with Gitea. I only have collaborative projects on GitHub.
 
+### Living projects that I maintain
+
+- *Django LiveView*: Framework for creating Realtime SPAs using HTML over the Wire technology [Documentation](https://django-liveview.andros.dev/)
+- *Important dev News*: Important technology news alert [Mastodon Bot](https://activity.andros.dev/@important_dev_news) and [Telegram Channel](https://t.me/important_stories_alert_hacknews)
+- *Maza ad blocking*: Simple, native and efficient local ad blocker. Only Bash. [Repository](https://github.com/tanrax/maza-ad-blocking)
+- *Free courses on web technologies* (Spanish): [Website](https://programadorwebvalencia.com/cursos/)
+- *Lirve*: Learn irregular verbs using the spaced repetition technique [Repository](https://github.com/tanrax/lirve.el)
+- *Infinite recursion* (Spanish): Functional programming challenges [Gemini Capsule](gemini://andros.dev/infinita-recursion)
+
 ### Some tools that I use regularly
 
 <p>
