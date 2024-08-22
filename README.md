@@ -11,7 +11,12 @@ You can find all [my repositories](https://git.andros.dev/andros) self-hosted on
 - *Maza ad blocking*: Simple, native and efficient local ad blocker. Only Bash. [Repository](https://github.com/tanrax/maza-ad-blocking)
 - *Free courses on web technologies* (Spanish): [Website](https://programadorwebvalencia.com/cursos/)
 - *Lirve*: Learn irregular verbs using the spaced repetition technique [Repository](https://github.com/tanrax/lirve.el)
-- *Infinite recursion* (Spanish): Functional programming challenges gemini://andros.dev/infinita-recursion
+- *Infinite recursion* (Spanish): Functional programming challenges. Gemini Capsule -> gemini://andros.dev/infinita-recursion
+
+### Books
+
+- [Building SPAs with Django and HTML Over the Wire: Learn to build real-time single page applications with Python](https://www.packtpub.com/en-es/product/building-spas-with-django-and-html-over-the-wire-9781803240190)
+- [Don Clojure de la Mancha: El ingenioso lenguaje funcional del paréntesis](https://don-clojure-de-la-mancha.es/)
 
 ### Some tools that I use regularly
 
@@ -29,8 +34,6 @@ You can find all [my repositories](https://git.andros.dev/andros) self-hosted on
 <a href="https://activity.andros.dev/@andros" alt="Mastodon" target="_blank">
     <img src="https://joinmastodon.org/logos/logo-purple.svg" alt="python" width="45" height="45"/>
 </a>
-
-
 
 <!--
 **tanrax/tanrax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
