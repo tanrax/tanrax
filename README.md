@@ -1,19 +1,24 @@
 ### Hi there 👋
 
-I am currently focused on the development of [Django LiveView](https://django-liveview.andros.dev/), my [new personal website](https://andros.dev) and my cats 🐈 🐈‍⬛.
+I am currently focused on the development, teaching and writing books. I am a fan of functional programming, Emacs, the Fediverse and my cats 🐈 🐈‍⬛ (they have their own [personal website](https://duque-terron.cat/)).
 
-You can find all [my repositories](https://git.andros.dev/andros) self-hosted on my home server with Gitea. I only have collaborative projects on GitHub.
+You can visit my [current website](https://programadorwebvalencia.com/), my [landing page](https://andros.dev) and find all [my repositories](https://git.andros.dev/andros) self-hosted on my home server with Gitea. I only have collaborative projects on GitHub.
+
+### I'm working on
+
+- Posts: I usually publish post regularly on my [blog](https://programadorwebvalencia.com/blog/).
+- Framework: *Django LiveView* is a framework for creating Realtime SPAs using HTML over the Wire technology [Documentation](https://django-liveview.andros.dev/)
+- Book: *Infinite recursion*, Programming challenges with incremental difficulty to improve as a programmer and pass technical tests.
+- Course: *Emacs UI*, a course to learn how to create user interfaces with Emacs Lisp. [You can see the progress](https://programadorwebvalencia.com/cursos/ui-emacs-lisp/introducci%C3%B3n/).
 
 ### Living projects that I maintain
 
-- *Django LiveView*: Framework for creating Realtime SPAs using HTML over the Wire technology [Documentation](https://django-liveview.andros.dev/)
+- *Free courses on web technologies* (Spanish): [Website](https://programadorwebvalencia.com/cursos/)
 - *Important dev News*: Important technology news alert [Mastodon Bot](https://activity.andros.dev/@important_dev_news) and [Telegram Channel](https://t.me/important_stories_alert_hacknews)
 - *Maza ad blocking*: Simple, native and efficient local ad blocker. Only Bash. [Repository](https://github.com/tanrax/maza-ad-blocking)
-- *Free courses on web technologies* (Spanish): [Website](https://programadorwebvalencia.com/cursos/)
 - *Lirve*: Learn irregular verbs using the spaced repetition technique [Repository](https://github.com/tanrax/lirve.el)
-- *Infinite recursion* (Spanish): Functional programming challenges. Gemini Capsule -> gemini://andros.dev/infinita-recursion
-
-### Books
+- 
+### Published books
 
 - [Building SPAs with Django and HTML Over the Wire: Learn to build real-time single page applications with Python](https://www.packtpub.com/en-es/product/building-spas-with-django-and-html-over-the-wire-9781803240190)
 - [Don Clojure de la Mancha: El ingenioso lenguaje funcional del paréntesis](https://don-clojure-de-la-mancha.es/)
@@ -34,18 +39,3 @@ You can find all [my repositories](https://git.andros.dev/andros) self-hosted on
 <a href="https://activity.andros.dev/@andros" alt="Fediverse" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Fediverse_logo_proposal.svg" alt="Fediverse" width="45" height="45"/>
 </a>
-
-<!--
-**tanrax/tanrax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
