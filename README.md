@@ -17,7 +17,7 @@ You can visit my [current website](https://programadorwebvalencia.com/), my [lan
 - *Important dev News*: Important technology news alert [Mastodon Bot](https://activity.andros.dev/@important_dev_news) and [Telegram Channel](https://t.me/important_stories_alert_hacknews)
 - *Maza ad blocking*: Simple, native and efficient local ad blocker. Only Bash. [Repository](https://github.com/tanrax/maza-ad-blocking)
 - *Lirve*: Learn irregular verbs using the spaced repetition technique [Repository](https://github.com/tanrax/lirve.el)
-- 
+
 ### Published books
 
 - [Building SPAs with Django and HTML Over the Wire: Learn to build real-time single page applications with Python](https://www.packtpub.com/en-es/product/building-spas-with-django-and-html-over-the-wire-9781803240190)
