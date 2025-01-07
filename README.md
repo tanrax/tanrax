@@ -6,10 +6,11 @@ You can visit my [current website](https://programadorwebvalencia.com/), my [lan
 
 ### I'm working on
 
-- Posts: I usually publish post regularly on my [blog](https://programadorwebvalencia.com/blog/).
-- Framework: *Django LiveView* is a framework for creating Realtime SPAs using HTML over the Wire technology [Documentation](https://django-liveview.andros.dev/)
-- Book: *Infinite recursion*, Programming challenges with incremental difficulty to improve as a programmer and pass technical tests.
-- Course: *Emacs UI*, a course to learn how to create user interfaces with Emacs Lisp. [You can see the progress](https://programadorwebvalencia.com/cursos/ui-emacs-lisp/introducci%C3%B3n/).
+- *Posts*: I usually publish post regularly on my [blog](https://programadorwebvalencia.com/blog/).
+- *Framework*: *Django LiveView* is a framework for creating Realtime SPAs using HTML over the Wire technology [Documentation](https://django-liveview.andros.dev/)
+- *Book*: *Infinite recursion*, Programming challenges with incremental difficulty to improve as a programmer and pass technical tests.
+- *twtxt-el*: A twtxt client for Emacs.
+- *My new website*
 
 ### Living projects that I maintain
 
