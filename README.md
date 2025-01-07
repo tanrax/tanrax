@@ -10,6 +10,7 @@ You can visit my [current website](https://programadorwebvalencia.com/), my [lan
 - *Framework*: *Django LiveView* is a framework for creating Realtime SPAs using HTML over the Wire technology [Documentation](https://django-liveview.andros.dev/)
 - *Book*: *Infinite recursion*, Programming challenges with incremental difficulty to improve as a programmer and pass technical tests.
 - *twtxt-el*: A twtxt client for Emacs. [Repository](https://github.com/syohex/twtxt-el)
+- *Podcast*: [República web](https://republicaweb.es/) is a podcast for professionals in web development, content and the technologies that drive the Internet.
 - *My new website*
 
 ### Living projects that I maintain
