@@ -1,15 +1,14 @@
 ### Hi there 👋
 
-I am currently focused on the development, teaching and writing books. I am a fan of functional programming, Emacs, the Fediverse and my cats 🐈 🐈‍⬛ (they have their own [personal website](https://duque-terron.cat/)).
+I am currently focused on the development, teaching and writing. I am a fan of functional programming, Emacs, the Fediverse and my cats 🐈 🐈‍⬛ (they have their own [personal website](https://duque-terron.cat/)).
 
 You can visit my [current website](https://programadorwebvalencia.com/), my [landing page](https://andros.dev) and find all [my repositories](https://git.andros.dev/andros) self-hosted on my home server with Gitea. I only have collaborative projects on GitHub.
 
 ### I'm working on
 
 - *Posts*: I usually publish post regularly on my [blog](https://programadorwebvalencia.com/blog/).
-- *Framework*: *Django LiveView* is a framework for creating Realtime SPAs using HTML over the Wire technology [Documentation](https://django-liveview.andros.dev/)
+- *Texudus*: Texudus is a decentralized social network that runs on a plain text file over HTTP.
 - *Book*: *Infinite recursion*, Programming challenges with incremental difficulty to improve as a programmer and pass technical tests.
-- *twtxt-el*: A twtxt client for Emacs. [Repository](https://github.com/syohex/twtxt-el)
 - *Podcast*: [República web](https://republicaweb.es/) is a podcast for professionals in web development, content and the technologies that drive the Internet.
 - *My new website*
 
@@ -19,6 +18,8 @@ You can visit my [current website](https://programadorwebvalencia.com/), my [lan
 - *Important dev News*: Important technology news alert [Mastodon Bot](https://activity.andros.dev/@important_dev_news) and [Telegram Channel](https://t.me/important_stories_alert_hacknews)
 - *Maza ad blocking*: Simple, native and efficient local ad blocker. Only Bash. [Repository](https://github.com/tanrax/maza-ad-blocking)
 - *Lirve*: Learn irregular verbs using the spaced repetition technique [Repository](https://github.com/tanrax/lirve.el)
+- *twtxt-el*: A twtxt client for Emacs. [Repository](https://github.com/buckket/twtxt)
+- *Framework*: *Django LiveView* is a framework for creating Realtime SPAs using HTML over the Wire technology [Documentation](https://django-liveview.andros.dev/)
 
 ### Published books
 
