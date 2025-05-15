@@ -7,7 +7,7 @@ You can visit my [current website](https://programadorwebvalencia.com/), my [lan
 ### I'm working on
 
 - *Posts*: I usually publish post regularly on my [blog](https://programadorwebvalencia.com/blog/).
-- *Texudus*: Texudus is a decentralized social network that runs on a plain text file over HTTP.
+- *Texudus*: Texudus is a decentralized social network that runs on a plain text file over HTTP [Docs](https://texudus.readthedocs.io/en/latest/).
 - *Book*: *Infinite recursion*, Programming challenges with incremental difficulty to improve as a programmer and pass technical tests.
 - *Podcast*: [República web](https://republicaweb.es/) is a podcast for professionals in web development, content and the technologies that drive the Internet.
 - *My new website*
