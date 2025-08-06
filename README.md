@@ -2,11 +2,11 @@
 
 I am currently focused on the development, teaching and writing. I am a fan of functional programming, Emacs, the Fediverse and my cats 🐈 🐈‍⬛ (they have their own [personal website](https://duque-terron.cat/)).
 
-You can visit my [current website](https://programadorwebvalencia.com/), my [landing page](https://andros.dev) and find all [my repositories](https://git.andros.dev/andros) self-hosted on my home server with Gitea. I only have collaborative projects on GitHub.
+You can visit my [website](https://andros.dev) and find all [my repositories](https://git.andros.dev/andros) self-hosted on my home server with Gitea. I only have collaborative projects on GitHub.
 
 ### I'm working on
 
-- *Posts*: I usually publish post regularly on my [blog](https://programadorwebvalencia.com/blog/).
+- *Posts*: I usually publish post regularly on my [blog](https://andros.dev/blog/).
 - *Texudus*: Texudus is a decentralized social network that runs on a plain text file over HTTP [Docs](https://texudus.readthedocs.io/en/latest/).
 - *Book*: *Infinite recursion*, Programming challenges with incremental difficulty to improve as a programmer and pass technical tests.
 - *Podcast*: [República web](https://republicaweb.es/) is a podcast for professionals in web development, content and the technologies that drive the Internet.
