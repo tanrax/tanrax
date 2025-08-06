@@ -24,6 +24,7 @@ You can visit my [website](https://andros.dev) and find all [my repositories](ht
 ### Published books
 
 - [Building SPAs with Django and HTML Over the Wire: Learn to build real-time single page applications with Python](https://www.packtpub.com/en-es/product/building-spas-with-django-and-html-over-the-wire-9781803240190)
+- [Desafíos de programación atemporales y multiparadigmáticos](https://www.amazon.es/dp/B0FK3PK2TM)
 - [Don Clojure de la Mancha: El ingenioso lenguaje funcional del paréntesis](https://don-clojure-de-la-mancha.es/)
 
 ### Some tools that I use regularly
