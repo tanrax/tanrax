@@ -6,10 +6,8 @@ You can visit my [website](https://andros.dev) and find all [my repositories](ht
 
 ### I'm working on
 
-- *org-social*: Decentralized social network that runs on an Org Mode file over HTTP. [Docs](https://github.com/tanrax/org-social).
+- *Org Social*: Decentralized social network that runs on an Org Mode file over HTTP. [Docs](https://github.com/tanrax/org-social).
 - *Posts*: I usually publish post regularly on my [blog](https://andros.dev/blog/).
-- *Podcast*: [República web](https://republicaweb.es/) is a podcast for professionals in web development, content and the technologies that drive the Internet.
-- *My new website*
 
 ### Living projects that I maintain
 
@@ -20,6 +18,7 @@ You can visit my [website](https://andros.dev) and find all [my repositories](ht
 - *twtxt-el*: A twtxt client for Emacs. [Repository](https://github.com/buckket/twtxt)
 - *Texudus*: Texudus is a twtxt alternative [Docs](https://texudus.readthedocs.io/en/latest/).
 - *Framework*: *Django LiveView* is a framework for creating Realtime SPAs using HTML over the Wire technology [Documentation](https://django-liveview.andros.dev/)
+- *Podcast*: [República web](https://republicaweb.es/) is a podcast for professionals in web development, content and the technologies that drive the Internet.
 
 ### Published books
 
