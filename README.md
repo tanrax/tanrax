@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently focused on the development, teaching and writing. I am a fan of functional programming, Emacs, the Orgverse and my cats 🐈 🐈‍⬛ (they have their own personal website: [Terrón](https://terroncete.cat/) and [Baldo](https://baldo.cat/)).
+I am currently focused on the development, teaching and writing. I am a fan of functional programming, Emacs, Orgverse and my cats 🐈 🐈‍⬛ (they have their own personal website: [Terrón](https://terroncete.cat/) and [Baldo](https://baldo.cat/)).
 
 You can visit my [website](https://andros.dev) and find all [my repositories](https://git.andros.dev/andros) self-hosted on my home server with Gitea. I only have collaborative projects on GitHub.
 
