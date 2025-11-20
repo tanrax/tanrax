@@ -8,6 +8,8 @@ You can visit my [website](https://andros.dev) and find all [my repositories](ht
 
 - *Org Social*: Decentralized social network that runs on an Org Mode file over HTTP. [Docs](https://github.com/tanrax/org-social).
 - *Posts*: I usually publish post regularly on my [blog](https://andros.dev/blog/).
+- *Framework*: *Django LiveView* is a framework for creating Realtime SPAs using HTML over the Wire technology [Documentation](https://github.com/Django-LiveView/liveview)
+
 
 ### Living projects that I maintain
 
@@ -17,7 +19,6 @@ You can visit my [website](https://andros.dev) and find all [my repositories](ht
 - *Lirve*: Learn irregular verbs using the spaced repetition technique [Repository](https://github.com/tanrax/lirve.el)
 - *twtxt-el*: A twtxt client for Emacs. [Repository](https://github.com/buckket/twtxt)
 - *Texudus*: Texudus is a twtxt alternative [Docs](https://texudus.readthedocs.io/en/latest/).
-- *Framework*: *Django LiveView* is a framework for creating Realtime SPAs using HTML over the Wire technology [Documentation](https://django-liveview.andros.dev/)
 - *Podcast*: [República web](https://republicaweb.es/) is a podcast for professionals in web development, content and the technologies that drive the Internet.
 
 ### Published books
