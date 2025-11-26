@@ -1,22 +1,21 @@
 ### Hi there 👋
 
-I am currently focused on the development, teaching and writing. I am a fan of functional programming, Emacs, Orgverse and my cats 🐈 🐈‍⬛ (they have their own personal website: [Terrón](https://terroncete.cat/) and [Baldo](https://baldo.cat/)).
+I am currently focused on the development, teaching and writing. I am a fan of functional programming, Emacs, Orgverse and my cats 🐈 🐈‍⬛.
 
 You can visit my [website](https://andros.dev) and find all [my repositories](https://git.andros.dev/andros) self-hosted on my home server with Gitea. I only have collaborative projects on GitHub.
 
 ### I'm working on
 
-- *Org Social*: Decentralized social network that runs on an Org Mode file over HTTP. [Docs](https://github.com/tanrax/org-social).
-- *Posts*: I usually publish post regularly on my [blog](https://andros.dev/blog/).
-- *Framework*: *Django LiveView* is a framework for creating Realtime SPAs using HTML over the Wire technology [Documentation](https://github.com/Django-LiveView/liveview)
+- [Org Social](https://github.com/tanrax/org-social): Decentralized social network that runs on an Org Mode file over HTTP.
+- [Posts](https://andros.dev/blog/): I usually publish post regularly on my blog.
+- [Django LiveView](https://django-liveview.andros.dev/): It is a framework for creating Realtime SPAs using HTML over the Wire technology. [Source Code](https://github.com/Django-LiveView/liveview)
 
 
 ### Living projects that I maintain
 
-- *Free courses on web technologies* (Spanish): [Website](https://andros.dev/cursos/)
+- [Free courses on web technologies](https://andros.dev/cursos/) (Spanish)
 - *Important dev News*: Important technology news alert [Mastodon Bot](https://activity.andros.dev/@important_dev_news) and [Telegram Channel](https://t.me/important_stories_alert_hacknews)
-- *Maza ad blocking*: Simple, native and efficient local ad blocker. Only Bash. [Repository](https://github.com/tanrax/maza-ad-blocking)
-- *twtxt-el*: A twtxt client for Emacs. [Repository](https://github.com/buckket/twtxt)
+- [Maza ad blocking](https://github.com/tanrax/maza-ad-blocking): Simple, native and efficient local ad blocker. Only Bash.
 - *Podcast*: [República web](https://republicaweb.es/) is a podcast for professionals in web development, content and the technologies that drive the Internet.
 
 ### Published books
@@ -34,6 +33,7 @@ You can visit my [website](https://andros.dev) and find all [my repositories](ht
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" alt="clojure" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" alt="debian" width="45" height="45"/>
   <img src="img/emacs.png" alt="debian" width="45" height="45"/>
+  <img src="https://github.com/tanrax/org-social/raw/main/org-social-logo.png" alt="Org Social" width="45" height="45"/>
 </p>
 
 ### Follow me
