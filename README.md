@@ -33,11 +33,9 @@ You can visit my [website](https://andros.dev) and find all [my repositories](ht
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" alt="clojure" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" alt="debian" width="45" height="45"/>
   <img src="img/emacs.png" alt="debian" width="45" height="45"/>
-  <img src="https://github.com/tanrax/org-social/raw/main/org-social-logo.png" alt="Org Social" width="45" height="45"/>
 </p>
 
 ### Follow me
 
-<a href="https://activity.andros.dev/@andros" alt="Fediverse" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Fediverse_logo_proposal.svg" alt="Fediverse" width="45" height="45"/>
-</a>
+<a href="https://activity.andros.dev/@andros" alt="Fediverse" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Fediverse_logo_proposal.svg" alt="Fediverse" width="45" height="45"/></a>
+<a href="https://host.org-social.org/andros/social.org" alt="Org Social" target="_blank"><img src="https://github.com/tanrax/org-social/raw/main/org-social-logo.png" alt="Org Social" width="45" height="45"/></a>
