@@ -13,12 +13,10 @@ You can visit my [website](https://andros.dev) and find all [my repositories](ht
 
 ### Living projects that I maintain
 
-- *Free courses on web technologies* (Spanish): [Website](https://programadorwebvalencia.com/cursos/)
+- *Free courses on web technologies* (Spanish): [Website](https://andros.dev/cursos/)
 - *Important dev News*: Important technology news alert [Mastodon Bot](https://activity.andros.dev/@important_dev_news) and [Telegram Channel](https://t.me/important_stories_alert_hacknews)
 - *Maza ad blocking*: Simple, native and efficient local ad blocker. Only Bash. [Repository](https://github.com/tanrax/maza-ad-blocking)
-- *Lirve*: Learn irregular verbs using the spaced repetition technique [Repository](https://github.com/tanrax/lirve.el)
 - *twtxt-el*: A twtxt client for Emacs. [Repository](https://github.com/buckket/twtxt)
-- *Texudus*: Texudus is a twtxt alternative [Docs](https://texudus.readthedocs.io/en/latest/).
 - *Podcast*: [República web](https://republicaweb.es/) is a podcast for professionals in web development, content and the technologies that drive the Internet.
 
 ### Published books
