@@ -16,7 +16,6 @@ You can visit my [website](https://andros.dev) and find all [my repositories](ht
 - [Free courses on web technologies](https://andros.dev/cursos/) (Spanish)
 - *Important dev News*: Important technology news alert [Mastodon Bot](https://activity.andros.dev/@important_dev_news) and [Telegram Channel](https://t.me/important_stories_alert_hacknews)
 - [Maza ad blocking](https://github.com/tanrax/maza-ad-blocking): Simple, native and efficient local ad blocker. Only Bash.
-- *Podcast*: [República web](https://republicaweb.es/) is a podcast for professionals in web development, content and the technologies that drive the Internet.
 
 ### Published books
 
