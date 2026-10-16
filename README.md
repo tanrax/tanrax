@@ -17,6 +17,40 @@ You can visit my [website](https://andros.dev) and find all [my repositories](ht
 - *Important dev News*: Important technology news alert [Mastodon Bot](https://activity.andros.dev/@important_dev_news) and [Telegram Channel](https://t.me/important_stories_alert_hacknews)
 - [Maza ad blocking](https://github.com/tanrax/maza-ad-blocking): Simple, native and efficient local ad blocker. Only Bash.
 
+### Emacs packages
+
+Available on [MELPA](https://melpa.org), sorted by downloads:
+
+- [org-social.el](https://git.andros.dev/org-social/org-social.el): Emacs client for Org Social, the decentralized social network over Org Mode files.
+- [async-http-queue](https://git.andros.dev/andros/async-http-queue-el): Lightweight parallel HTTP fetching library with configurable concurrency limits.
+- [thankful-eyes-theme](https://git.andros.dev/andros/thankful-eyes-theme.el): Color theme for color blindness and visual impairments.
+- [vterm-editor](https://git.andros.dev/andros/vterm-editor.el): Compose text in an Emacs buffer and send it to vterm with a single keystroke.
+- [conflict-buttons](https://git.andros.dev/andros/conflict-buttons.el): Clickable inline buttons to resolve git merge conflicts, inspired by VS Code CodeLens.
+- [hackernews-modern](https://git.andros.dev/andros/hackernews-modern-el): Hacker News client with a modern, widget-based interface.
+- [lobsters](https://git.andros.dev/andros/lobsters.el): A simple and elegant Lobsters client.
+- [comet-trail](https://git.andros.dev/andros/comet-trail.el): Cursor comet trail visual effect.
+- [lirve](https://git.andros.dev/andros/lirve.el): Learn irregular English verbs with spaced repetition of your mistakes.
+- [meshmonitor-chat](https://git.andros.dev/andros/meshmonitor-chat.el): Chat client for MeshMonitor (Meshtastic), inspired by ERC and rcirc.
+- [nonogram](https://git.andros.dev/andros/nonogram.el): Play nonogram (picross) puzzles with SVG graphics.
+- [meshtastic](https://git.andros.dev/andros/meshtastic.el): Chat client for Meshtastic LoRa mesh networks over USB serial.
+- [efinger](https://git.andros.dev/andros/efinger.el): Finger protocol (RFC 1288) client with an Elfeed-inspired `.plan` reader.
+
+Other notable packages:
+
+- [emacs-gpu](https://github.com/tanrax/emacs-gpu): GNU Emacs with a GPU-accelerated display backend (archived).
+- [whatsapp.el](https://git.andros.dev/andros/whatsapp.el): Chat client for the official WhatsApp macOS app, inspired by ERC and rcirc.
+- [presence.el](https://git.andros.dev/andros/presence.el): See when your friends are online, away or offline, and exchange simple messages.
+- [kagi-search.el](https://git.andros.dev/andros/kagi-search.el): Browse Kagi search results in a plain buffer, without a graphical browser or JavaScript.
+- [termweb.el](https://git.andros.dev/andros/termweb.el): Reformat web pages so they read well in EWW.
+- [org-social-extension-chess.el](https://git.andros.dev/andros/org-social-extension-chess.el): Play chess over Org Social posts.
+- [org-share-to-web.el](https://git.andros.dev/andros/org-share-to-web.el): Share an Org buffer as a public web page on your own domain.
+- [quick-weather.el](https://git.andros.dev/andros/quick-weather.el): Quick weather forecasts with sparklines, using Open-Meteo data.
+- [scroll-page-without-moving-point.el](https://git.andros.dev/andros/scroll-page-without-moving-point.el): Scroll the page without moving the cursor.
+- [format-region.el](https://git.andros.dev/andros/format-region.el): Convert a region between camelCase, kebab-case, PascalCase and snake_case.
+- [fuzzy-clock.el](https://git.andros.dev/andros/fuzzy-clock.el): Display the time in fuzzy, human-friendly words.
+- [burn.el](https://git.andros.dev/andros/burn.el): Empty the current buffer with a fire animation 🔥.
+- [andros-dev.el](https://git.andros.dev/andros/andros-dev.el) and [andros-dev-presence-mode.el](https://git.andros.dev/andros/andros-dev-presence-mode.el): Read my blog and see live visitors without leaving Emacs.
+
 ### Published books
 
 - [Building SPAs with Django and HTML Over the Wire: Learn to build real-time single page applications with Python](https://www.packtpub.com/en-es/product/building-spas-with-django-and-html-over-the-wire-9781803240190)
