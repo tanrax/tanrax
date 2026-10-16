@@ -25,8 +25,9 @@ You can visit my [website](https://andros.dev) and find all [my repositories](ht
 
 ### Published iOS apps
 
-- [Org Social](https://apps.apple.com/app/org-social/id6764415116): Native iOS client for the Org Social decentralized social network.
-- [MeshMonitor Chat](https://apps.apple.com/app/meshmonitor-chat/id6766212933): Native iOS chat client for MeshMonitor (Meshtastic).
+- [Org Social](https://apps.apple.com/app/org-social/id6764415116): Client for the Org Social decentralized social network.
+- [MeshMonitor Chat](https://apps.apple.com/app/meshmonitor-chat/id6766212933): Client for MeshMonitor (Meshtastic).
+- [DotDenote](https://apps.apple.com/es/app/dotdenote/id6773266542): Client for Denote, the plain-text note-taking system for Emacs.
 
 ### Some tools that I use regularly
 
