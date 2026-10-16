@@ -19,8 +19,6 @@ You can visit my [website](https://andros.dev) and find all [my repositories](ht
 
 ### Emacs packages
 
-Available on [MELPA](https://melpa.org), sorted by downloads:
-
 - [org-social.el](https://git.andros.dev/org-social/org-social.el): Emacs client for Org Social, the decentralized social network over Org Mode files.
 - [async-http-queue](https://git.andros.dev/andros/async-http-queue-el): Lightweight parallel HTTP fetching library with configurable concurrency limits.
 - [thankful-eyes-theme](https://git.andros.dev/andros/thankful-eyes-theme.el): Color theme for color blindness and visual impairments.
